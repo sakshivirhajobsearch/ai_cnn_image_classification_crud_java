@@ -1,0 +1,11 @@
+target/
+*.class
+*.log
+.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+*.png
+*.jpg
+*.jpeg
